@@ -1,0 +1,6 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\If-ElseIf\bin\Debug\If-ElseIf.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\If-ElseIf\bin\Debug\If-ElseIf.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\If-ElseIf\bin\Debug\If-ElseIf.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\If-ElseIf\obj\Debug\If-ElseIf.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\If-ElseIf\obj\Debug\If-ElseIf.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\If-ElseIf\obj\Debug\If-ElseIf.pdb

@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\bin\Debug\ForEachLoop.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\bin\Debug\ForEachLoop.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\bin\Debug\ForEachLoop.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\obj\Debug\ForEachLoop.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\obj\Debug\ForEachLoop.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\obj\Debug\ForEachLoop.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\ForEachLoop\obj\Debug\ForEachLoop.pdb

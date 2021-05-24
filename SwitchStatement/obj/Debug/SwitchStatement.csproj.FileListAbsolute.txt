@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\bin\Debug\SwitchStatement.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\bin\Debug\SwitchStatement.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\bin\Debug\SwitchStatement.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\obj\Debug\SwitchStatement.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\obj\Debug\SwitchStatement.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\obj\Debug\SwitchStatement.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\SwitchStatement\obj\Debug\SwitchStatement.pdb

@@ -1,0 +1,6 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\GiaiThua\bin\Debug\GiaiThua.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\GiaiThua\bin\Debug\GiaiThua.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\GiaiThua\bin\Debug\GiaiThua.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\GiaiThua\obj\Debug\GiaiThua.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\GiaiThua\obj\Debug\GiaiThua.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\VongLap\GiaiThua\obj\Debug\GiaiThua.pdb

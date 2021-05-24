@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\bin\Debug\Operators.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\bin\Debug\Operators.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\bin\Debug\Operators.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\obj\Debug\Operators.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\obj\Debug\Operators.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\obj\Debug\Operators.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\Operators\obj\Debug\Operators.pdb

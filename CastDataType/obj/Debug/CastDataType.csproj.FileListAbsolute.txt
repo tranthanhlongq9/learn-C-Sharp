@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\bin\Debug\CastDataType.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\bin\Debug\CastDataType.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\bin\Debug\CastDataType.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\obj\Debug\CastDataType.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\obj\Debug\CastDataType.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\obj\Debug\CastDataType.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\CastDataType\obj\Debug\CastDataType.pdb
