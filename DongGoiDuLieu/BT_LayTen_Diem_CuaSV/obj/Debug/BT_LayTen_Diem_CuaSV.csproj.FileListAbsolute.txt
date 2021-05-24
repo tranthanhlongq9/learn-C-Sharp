@@ -1,0 +1,7 @@
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\bin\Debug\BT_LayTen_Diem_CuaSV.exe.config
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\bin\Debug\BT_LayTen_Diem_CuaSV.exe
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\bin\Debug\BT_LayTen_Diem_CuaSV.pdb
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\obj\Debug\BT_LayTen_Diem_CuaSV.csprojAssemblyReference.cache
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\obj\Debug\BT_LayTen_Diem_CuaSV.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\obj\Debug\BT_LayTen_Diem_CuaSV.exe
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\BT_LayTen_Diem_CuaSV\obj\Debug\BT_LayTen_Diem_CuaSV.pdb

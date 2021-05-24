@@ -1,0 +1,6 @@
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\DongGoiDuLieu2\bin\Debug\DongGoiDuLieu2.exe.config
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\DongGoiDuLieu2\bin\Debug\DongGoiDuLieu2.exe
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\DongGoiDuLieu2\bin\Debug\DongGoiDuLieu2.pdb
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\DongGoiDuLieu2\obj\Debug\DongGoiDuLieu2.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\DongGoiDuLieu2\obj\Debug\DongGoiDuLieu2.exe
+D:\Project Visual Studio\learn-C-Sharp\DongGoiDuLieu\DongGoiDuLieu2\obj\Debug\DongGoiDuLieu2.pdb
