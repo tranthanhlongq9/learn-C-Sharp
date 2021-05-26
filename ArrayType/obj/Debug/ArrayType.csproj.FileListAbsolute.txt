@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\bin\Debug\ArrayType.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\bin\Debug\ArrayType.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\bin\Debug\ArrayType.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\obj\Debug\ArrayType.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\obj\Debug\ArrayType.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\obj\Debug\ArrayType.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayType\obj\Debug\ArrayType.pdb

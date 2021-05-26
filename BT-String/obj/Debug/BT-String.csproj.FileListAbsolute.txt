@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\bin\Debug\BT-String.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\bin\Debug\BT-String.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\bin\Debug\BT-String.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\obj\Debug\BT-String.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\obj\Debug\BT-String.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\obj\Debug\BT-String.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\BT-String\obj\Debug\BT-String.pdb

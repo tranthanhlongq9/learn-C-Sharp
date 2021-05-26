@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\bin\Debug\Mang2Chieu.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\bin\Debug\Mang2Chieu.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\bin\Debug\Mang2Chieu.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\obj\Debug\Mang2Chieu.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\obj\Debug\Mang2Chieu.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\obj\Debug\Mang2Chieu.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\Mang2Chieu\obj\Debug\Mang2Chieu.pdb

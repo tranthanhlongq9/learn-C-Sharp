@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\bin\Debug\AverageArray.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\bin\Debug\AverageArray.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\bin\Debug\AverageArray.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\obj\Debug\AverageArray.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\obj\Debug\AverageArray.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\obj\Debug\AverageArray.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\AverageArray\obj\Debug\AverageArray.csprojAssemblyReference.cache

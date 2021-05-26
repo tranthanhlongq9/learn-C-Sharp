@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\bin\Debug\SoPhanTuCoTrongArray.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\bin\Debug\SoPhanTuCoTrongArray.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\bin\Debug\SoPhanTuCoTrongArray.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\obj\Debug\SoPhanTuTrongArray.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\obj\Debug\SoPhanTuCoTrongArray.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\obj\Debug\SoPhanTuCoTrongArray.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\SoPhanTuCoTrongArray\obj\Debug\SoPhanTuTrongArray.csprojAssemblyReference.cache

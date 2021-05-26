@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\bin\Debug\StringExample.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\bin\Debug\StringExample.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\bin\Debug\StringExample.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\obj\Debug\StringExample.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\obj\Debug\StringExample.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\obj\Debug\StringExample.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\StringExample\obj\Debug\StringExample.pdb

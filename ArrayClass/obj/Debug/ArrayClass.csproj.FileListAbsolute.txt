@@ -1,0 +1,6 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayClass\bin\Debug\ArrayClass.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayClass\bin\Debug\ArrayClass.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayClass\bin\Debug\ArrayClass.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayClass\obj\Debug\ArrayClass.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayClass\obj\Debug\ArrayClass.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\ArrayClass\obj\Debug\ArrayClass.pdb
