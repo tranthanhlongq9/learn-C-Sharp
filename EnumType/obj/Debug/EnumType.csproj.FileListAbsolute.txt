@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\bin\Debug\EnumType.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\bin\Debug\EnumType.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\bin\Debug\EnumType.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\obj\Debug\EnumType.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\obj\Debug\EnumType.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\obj\Debug\EnumType.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\EnumType\obj\Debug\EnumType.pdb

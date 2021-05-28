@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\bin\Debug\ClassLession.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\bin\Debug\ClassLession.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\bin\Debug\ClassLession.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\obj\Debug\ClassLession.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\obj\Debug\ClassLession.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\obj\Debug\ClassLession.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\ClassLession\obj\Debug\ClassLession.pdb

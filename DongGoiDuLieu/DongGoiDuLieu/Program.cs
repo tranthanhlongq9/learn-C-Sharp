@@ -12,7 +12,7 @@ namespace DongGoiDuLieu
         {
             Console.OutputEncoding = Encoding.UTF8;
 
-            Persion persion1 = new Persion(); // có thể truyền vào cho nó giá trị tham số tương ứng vs các constructor..
+            Persion persion1 = new Persion(); //khởi tạo và có thể truyền vào cho nó giá trị tham số tương ứng vs các constructor..
             persion1.SetName("Long nè");
             Console.WriteLine(persion1.SayName());
             
@@ -24,16 +24,16 @@ namespace DongGoiDuLieu
     //class persion
     class Persion
     {
-        public Persion() //Phải có 1 constructor trống để obj ko yêu cầu truyền tham số vào.
+        public Persion() //có 1 default constructor trống để obj ko yêu cầu truyền tham số vào.
         {     
             
         }
 
-        public Persion(float height) //khởi tạo 1 constructor
+        public Persion(float height) //khởi tạo 1 default constructor
         {
             _height = height;
         }
-        public Persion(string name) //có thể khởi tạo nhiều constructor vs các giá trị tham số khác nhau
+        public Persion(string name) //có thể khởi tạo nhiều default constructor vs các giá trị tham số khác nhau
         {
             _name = name;
         }
