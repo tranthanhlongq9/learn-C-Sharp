@@ -1,0 +1,7 @@
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\bin\Debug\Method.exe.config
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\bin\Debug\Method.exe
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\bin\Debug\Method.pdb
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\obj\Debug\Method.csprojAssemblyReference.cache
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\obj\Debug\Method.exe
+D:\Project Visual Studio\learn-C-Sharp\Method\Method\obj\Debug\Method.pdb

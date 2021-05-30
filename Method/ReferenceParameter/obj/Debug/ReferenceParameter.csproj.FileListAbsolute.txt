@@ -1,0 +1,7 @@
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\bin\Debug\ReferenceParameter.exe.config
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\bin\Debug\ReferenceParameter.exe
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\bin\Debug\ReferenceParameter.pdb
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\obj\Debug\ReferenceParameter.csprojAssemblyReference.cache
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\obj\Debug\ReferenceParameter.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\obj\Debug\ReferenceParameter.exe
+D:\Project Visual Studio\learn-C-Sharp\Method\ReferenceParameter\obj\Debug\ReferenceParameter.pdb

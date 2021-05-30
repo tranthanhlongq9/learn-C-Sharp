@@ -1,0 +1,6 @@
+D:\Project Visual Studio\learn-C-Sharp\Method\DeQuy\bin\Debug\DeQuy.exe.config
+D:\Project Visual Studio\learn-C-Sharp\Method\DeQuy\bin\Debug\DeQuy.exe
+D:\Project Visual Studio\learn-C-Sharp\Method\DeQuy\bin\Debug\DeQuy.pdb
+D:\Project Visual Studio\learn-C-Sharp\Method\DeQuy\obj\Debug\DeQuy.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\learn-C-Sharp\Method\DeQuy\obj\Debug\DeQuy.exe
+D:\Project Visual Studio\learn-C-Sharp\Method\DeQuy\obj\Debug\DeQuy.pdb
