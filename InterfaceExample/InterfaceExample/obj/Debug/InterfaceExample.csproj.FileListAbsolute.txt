@@ -1,0 +1,7 @@
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe.config
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.exe
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\bin\Debug\InterfaceExample.pdb
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csprojAssemblyReference.cache
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.exe
+D:\Project Visual Studio\learn-C-Sharp\InterfaceExample\InterfaceExample\obj\Debug\InterfaceExample.pdb
