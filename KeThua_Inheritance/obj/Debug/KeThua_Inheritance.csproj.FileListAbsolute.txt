@@ -1,0 +1,7 @@
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\bin\Debug\KeThua_Inheritance.exe.config
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\bin\Debug\KeThua_Inheritance.exe
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\bin\Debug\KeThua_Inheritance.pdb
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\obj\Debug\KeThua_Inheritance.csprojAssemblyReference.cache
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\obj\Debug\KeThua_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\obj\Debug\KeThua_Inheritance.exe
+C:\Users\Thanh Long\source\repos\KeThua_Inheritance\obj\Debug\KeThua_Inheritance.pdb

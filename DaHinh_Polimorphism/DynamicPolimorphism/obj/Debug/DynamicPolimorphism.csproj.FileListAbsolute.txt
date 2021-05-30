@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\bin\Debug\DynamicPolimorphism.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\bin\Debug\DynamicPolimorphism.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\bin\Debug\DynamicPolimorphism.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\obj\Debug\DynamicPolimorphism.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\obj\Debug\DynamicPolimorphism.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\obj\Debug\DynamicPolimorphism.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\DynamicPolimorphism\obj\Debug\DynamicPolimorphism.csprojAssemblyReference.cache

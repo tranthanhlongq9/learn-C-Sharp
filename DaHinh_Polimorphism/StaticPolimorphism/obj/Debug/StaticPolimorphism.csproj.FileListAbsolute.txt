@@ -1,0 +1,7 @@
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\bin\Debug\StaticPolimorphism.exe.config
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\bin\Debug\StaticPolimorphism.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\bin\Debug\StaticPolimorphism.pdb
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\obj\Debug\StaticPolimorphism.csprojAssemblyReference.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\obj\Debug\StaticPolimorphism.csproj.CoreCompileInputs.cache
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\obj\Debug\StaticPolimorphism.exe
+D:\Project Visual Studio\Hoc Lap Trinh C#\DaHinh_Polimorphism\StaticPolimorphism\obj\Debug\StaticPolimorphism.pdb
